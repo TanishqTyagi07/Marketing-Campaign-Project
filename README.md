@@ -27,15 +27,22 @@ Hint: From the number of purchases through the three channels, people can derive
 •	Test the following hypotheses:
 
 o	Older people are not as tech-savvy and probably prefer shopping in-store.
+
 o	Customers with kids probably have less time to visit a store and would prefer to shop online.
+
 o	Other distribution channels may cannibalize sales at the store.
+
 o	Does the US fare significantly better than the rest of the world in terms of total purchases?
 
 
 •	Use appropriate visualization to help analyze the following:
 
 o	Which products are performing the best, and which are performing the least in terms of revenue?
+
 o	Is there any pattern between the age of customers and the last campaign acceptance rate?
+
 o	Which Country has the greatest number of customers who accepted the last campaign?
+
 o	Do you see any pattern in the no. of children at home and total spend?
+
 o	Education background of the customers who complained in the last 2 years.
